@@ -1,0 +1,61 @@
+{
+  "name": "pages-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Always a pleasure scaffolding your awesome static sites.",
+  "keywords": [
+    "gulp_workflow_template",
+    "gulp-workflow-boilerplate",
+    "boilerplate",
+    "pages",
+    "chongchong"
+  ],
+  "homepage": "https://github.com/henji-1122/wxc_gulp_workflow_template#readme",
+  "bugs": {
+    "url": "https://github.com/henji-1122/wxc_gulp_workflow_template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henji-1122/wxc_gulp_workflow_template.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "虫虫",
+    "email": "2475886163@qq.com",
+    "url": "https://github.com/henji-1122"
+  },
+  "scripts": {
+    "clean": "wxc_gulp_workflow clean",
+    "lint": "wxc_gulp_workflow lint",
+    "serve": "wxc_gulp_workflow serve",
+    "build": "wxc_gulp_workflow build",
+    "start": "wxc_gulp_workflow start",
+    "deploy": "wxc_gulp_workflow deploy --production"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "renovate": {
+    "extends": [
+      "chongchong"
+    ],
+    "baseBranches": [
+      "master",
+      "wxc_gulp_workflow"
+    ]
+  },
+  "dependencies": {
+    "bootstrap": "4.5.2",
+    "jquery": "3.5.1",
+    "popper.js": "1.16.1"
+  },
+  "devDependencies": {
+    "wxc_gulp_workflow": "1.0.1"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
