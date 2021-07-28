@@ -1,12 +1,5 @@
 # wxc_gulp_workflow-template
 
-[![Build Status][travis-image]][travis-url]
-[![Package Version][version-image]][version-url]
-[![License][license-image]][license-url]
-[![Dependency Status][dependency-image]][dependency-url]
-[![devDependency Status][devdependency-image]][devdependency-url]
-[![Code Style][style-image]][style-url]
-
 > Always a pleasure scaffolding your awesome static sites.
 
 ## Getting Started
