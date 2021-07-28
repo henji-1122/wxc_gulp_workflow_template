@@ -1,8 +1,8 @@
-# wxc_gulp_workflow-template
+### wxc_gulp_workflow-template
 
 > Always a pleasure scaffolding your awesome static sites.
 
-## Getting Started
+#### Getting Started
 
 ```shell
 # clone repo
@@ -12,13 +12,13 @@ $ cd my-awesome-pages
 $ yarn # or npm install
 ```
 
-## Usage
+### Usage
 
 ```shell
 $ yarn <task> [options]
 ```
 
-### e.g.
+#### e.g.
 
 ```shell
 # Runs the app in development mode
@@ -76,7 +76,7 @@ Deploy the `dist` folder to [GitHub Pages](https://pages.github.com).
 
 Clean the `dist` & `temp` files.
 
-## Folder Structure
+### Folder Structure
 
 ```
 └── my-awesome-pages ································· project root
@@ -111,11 +111,11 @@ Clean the `dist` & `temp` files.
    └─ yarn.lock ······································ yarn lock file
 ```
 
-## Related
+### Related
 
 - [虫虫/wxc_gulp_workflow](https://github.com/henji-1122/wxc_gulp_workflow) - A fully managed gulp workflow for static page sites.
 
-## Contributing
+### Contributing
 
 1. **Fork** it on GitHub!
 2. **Clone** the fork to your own machine.
@@ -126,7 +126,7 @@ Clean the `dist` & `temp` files.
 
 > **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
-## License
+### License
 
 [MIT](LICENSE) &copy; [虫虫](https://github.com/henji-1122)
 
